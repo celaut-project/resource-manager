@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+src/resource_manager/__init__.py
+src/resource_manager/resourcemanager.py
+src/resource_manager/singleton.py
+src/resource_manager.egg-info/PKG-INFO
+src/resource_manager.egg-info/SOURCES.txt
+src/resource_manager.egg-info/dependency_links.txt
+src/resource_manager.egg-info/top_level.txt
+test/test.py
