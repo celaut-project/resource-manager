@@ -3,7 +3,7 @@ import gc
 from threading import Lock
 from time import sleep
 
-from resource_manager import Singleton
+from resource_manager.singleton import Singleton
 
 
 def mem_manager(len: int): return ResourceManager().lock(len=len)
