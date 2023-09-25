@@ -4,8 +4,8 @@ setup(
     name='resource_manager',
     version='0.0.1',
 
-    url='https://github.com/jossemii/ResourceManager.git',
-    author='J.Avellana',
+    url='https://github.com/jossemii/resource-manager.git',
+    author='jossemii',
     author_email='jossemii@proton.me',
 
     py_modules=['resource_manager'],
