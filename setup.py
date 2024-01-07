@@ -4,7 +4,7 @@ setup(
     name='resource_manager',
     version='0.0.1',
 
-    url='https://github.com/jossemii/resource-manager.git',
+    url='https://github.com/celaut-project/resource-manager.git',
     author='jossemii',
     author_email='jossemii@proton.me',
 
